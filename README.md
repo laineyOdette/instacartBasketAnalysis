@@ -1,5 +1,5 @@
 # Instacart Basket Analysis
-Instacart wants to uncover information about their sales patterns to gain insights and strategize for better customer segmentation. 
+_Instacart wants to uncover information about their sales patterns to gain insights and strategize for better customer segmentation._
 
 ## Objective
 TBD
