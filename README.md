@@ -4,8 +4,17 @@ _Instacart wants to uncover information about their sales patterns to gain insig
 ## Objective
 TBD
 
-## Tools
-For this project, I coded in Python and leveraged the following libraries:
+## Tools and Skills
+- Python
+- Data wrangling
+- Data merging
+- Deriving bariables
+- Grouping data
+- Aggregating data
+- Reporting in Excel
+- Population flows
+
+For this project, I leveraged the following Python libraries:
 - Pandas
 - NumPy
 - MatPlotLib
